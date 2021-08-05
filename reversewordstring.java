@@ -14,7 +14,7 @@ public class reversewordstring {
 		String[] word=str.split(" ");
 		String reverseword = " ";
 		
-		for(int i=0;i<word.length;i++) {
+		for(int i =0;i<word.length;i++) {
 			String words = word[i];
 			String revword=" ";
 			
